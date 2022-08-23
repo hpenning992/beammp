@@ -1,0 +1,28 @@
+[21/08/22 18:35:37] [INFO] BeamMP Server v3.0.2
+[21/08/22 18:35:37] [INFO] PluginMonitor started
+[21/08/22 18:35:37] [INFO] Sentry started! Reporting errors automatically. This sends data to the developers in case of errors and crashes. You can learn more, turn this message off or opt-out of this in the ServerConfig.toml.
+[21/08/22 18:35:37] [INFO] Vehicle data network online on port 30814 with a Max of 8 Clients
+[21/08/22 18:35:37] [INFO] Vehicle event network online
+[21/08/22 18:35:38] [INFO] Server up-to-date!
+[21/08/22 18:35:43] [INFO] Authenticated!
+[21/08/22 18:35:43] [INFO] ALL SYSTEMS STARTED SUCCESSFULLY, EVERYTHING IS OKAY
+[21/08/22 18:37:11] [INFO] Identifying new ClientConnection...
+[21/08/22 18:37:12] [INFO] Identification success
+[21/08/22 18:37:12] [INFO] Client connected
+[21/08/22 18:37:12] [INFO] Assigned ID 0 to hpenning992
+[21/08/22 18:37:12] [INFO] hpenning992 : Connected
+[21/08/22 18:37:26] [INFO] hpenning992 is now synced!
+[21/08/22 18:40:07] [INFO] hpenning992 Connection Terminated
+> stop
+Error: Unknown command: 'stop'. Type 'help' to see a list of valid commands.
+> /stop
+Error: Unknown command: '/stop'. Type 'help' to see a list of valid commands.
+[21/08/22 18:40:32] [INFO] gracefully shutting down via close
+[21/08/22 18:40:32] [INFO] please wait while all subsystems are shutting down...
+[21/08/22 18:40:32] [INFO] Subsystem 1/8 shutting down
+[21/08/22 18:40:32] [INFO] Subsystem 2/8 shutting down
+[21/08/22 18:40:32] [INFO] Subsystem 3/8 shutting down
+[21/08/22 18:40:32] [INFO] Subsystem 4/8 shutting down
+[21/08/22 18:40:32] [INFO] Subsystem 5/8 shutting down
+[21/08/22 18:40:33] [INFO] Subsystem 6/8 shutting down
+[21/08/22 18:40:37] [INFO] Subsystem 7/8 shutting down

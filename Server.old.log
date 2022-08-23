@@ -1,0 +1,5 @@
+[21/08/22 18:30:51] [INFO] BeamMP Server v3.0.2
+[21/08/22 18:30:51] [INFO] No config file found! Generating one...
+[21/08/22 18:30:51] [ERROR] No AuthKey specified in the "ServerConfig.toml" file. Please get an AuthKey, enter it into the config file, and restart this server.
+[21/08/22 18:30:51] [INFO] PluginMonitor started
+[21/08/22 18:30:51] [INFO] Closing in 10 seconds
